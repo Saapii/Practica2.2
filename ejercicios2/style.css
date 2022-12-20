@@ -1,0 +1,11 @@
+p#parrafo1{
+    color: blue;
+}
+
+p{
+    color: green;
+}
+
+p.navegadores{
+    color: red;
+}
